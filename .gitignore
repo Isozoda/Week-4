@@ -1,2 +1,6 @@
 /node_modules
+<<<<<<< HEAD
 ./src/output.css
+=======
+./src/output.css
+>>>>>>> cf220d1d71364cc3a821d193f63278c08087f7bd
