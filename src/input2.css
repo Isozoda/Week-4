@@ -10,3 +10,14 @@
   height: 811px;
   background-repeat: no-repeat;
 }
+
+@media (max-width:500px) {
+    .background1 {
+        height: 500px;
+        background-position: center;
+    }
+    .background2 {
+        height: 500px;
+        background-position: left;
+    }
+}
